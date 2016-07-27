@@ -17,6 +17,6 @@ site.github.url: "/jekyll1"
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
-
+future: true 
 # Build settings
 markdown: kramdown
