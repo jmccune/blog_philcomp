@@ -24,12 +24,12 @@ Ultimately, security is about knowing that information is kept safe
   - can be exchanged between permitted parties
 
 Physical safes and/or institutions like banks perform this function for
-physical assets.  Things kept in safes/lock-boxes are guaraded against by the
+physical assets.  Things kept in safes/lock-boxes are guarded against by the
 institution's security measures as well as the physical locking mechanism.
 The locking mechanism ensures that only the authorized party (the key holder)
 is able to open/unlock the safe/lock-box.   Thusly the contents in the safe
-are not normally subject to alteration or destroyable.   And they can only
-be exchanged by removing them from the box and using secure means of 
+are not normally subject to alteration, destruction or for copying/capture.   
+And they can only be exchanged by removing them from the box and using secure means of 
 exchange (secure couriers or directly handing the contents to someone else.)
 One nice aspect of physical things is that they don't usually copy easily.
 

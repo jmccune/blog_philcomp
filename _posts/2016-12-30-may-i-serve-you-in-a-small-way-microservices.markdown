@@ -20,11 +20,19 @@ Good Properties of Micro-services:
   * Redundancy
 	  * NodeLoss doesn't impact the system.
 	  * Remove Single Points of Failure/Cascading failures	
-  * Pass Chaos tests  (verify node failures don't take the system down)
+  * Pass Chaos tests  (verify node failures don't take the system down) 
+  * Multiple versions can run at the same time
+  	  * The API is the contract
+
+Observations:
+  * Mature companies spend 25% of their time on the internal infrastructure
+  
 
 ### Sources ###
   - [Microservice Architecture]
   - [Mastering Chaos]
+  - [Reinvent Serverless Architecture]
 
 [Microservice Architecture]: http://shop.oreilly.com/product/0636920050308.do?sortby=publicationDate
 [Mastering Chaos]: https://www.infoq.com/presentations/netflix-chaos-microservices
+[Reinvent Serverless Architecture]: https://www.youtube.com/watch?v=OI_V6OZZkZM
