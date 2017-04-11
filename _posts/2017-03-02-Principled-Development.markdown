@@ -9,7 +9,10 @@ categories: development best-practices architecture
 
 - Architects work between the boundaries of system components or [bounded contexts](https://martinfowler.com/bliki/BoundedContext.html).  They specify the zoning rules and laws, the communication, versioning, etc. requirements between these various portions of an application.
 
-- Architects are responsible for technical governance: "Governance ensures that stakeholder needs, conditions and options are evaluated to determine balanced, agreed-on enterprise objectives to be achieved; setting direction through prioritization and decision making; and monitoring performance and compliance against agreed-on direction and objectives" [COBIT Governance]
+- Architects are responsible for technical governance: "Governance ensures that stakeholder needs, conditions and options are evaluated to determine balanced, agreed-on enterprise objectives to be achieved; setting direction through prioritization and decision making; and monitoring performance and compliance against agreed-on direction and objectives" [COBIT Governance]   While architects are responsible, they are not the only
+ones involved in the governance-- as the organization and technical teams in particular are stakeholders
+in that definition.
+
 
 
 ### Testing Principles ###
