@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Event Driven Opportunism (EDA)"
-date:   2017-04-11 09:44:00 -0500
-categories: eda event architecture cliffnotes
+date:   2017-05-30 00:00:00 -0500
+categories: cliffnotes eda event architecture 
 ---
 
 

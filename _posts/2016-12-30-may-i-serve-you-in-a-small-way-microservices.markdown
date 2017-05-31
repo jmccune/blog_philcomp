@@ -2,7 +2,7 @@
 layout: post
 title:  "May I serve you in a small way: Microservices"
 date:   2016-12-30 13:45:00 -0500
-categories: microservices
+categories: cliffnotes microservices
 ---
 
 Microservices are the modern way of making things work, for handling scale for things that are "too big" for a single computer to handle.  We use microservices all the time if we use the internet.

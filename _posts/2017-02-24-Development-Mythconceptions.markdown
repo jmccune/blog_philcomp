@@ -2,7 +2,7 @@
 layout: post
 title:  "Development Mythconceptions"
 date:   2017-02-24 15:41:00 -0500
-categories: development best-practices worst-practices
+categories: best-practices worst-practices development  
 ---
 
 ### Development MythConceptions ###

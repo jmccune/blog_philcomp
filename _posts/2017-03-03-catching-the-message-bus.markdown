@@ -2,7 +2,7 @@
 layout: post
 title:  "Catching the message bus..."
 date:   2017-03-03 13:57:00 -0500
-categories: message-bus kafka
+categories: cliffnotes message-bus kafka
 ---
 
 ### Kafka ###

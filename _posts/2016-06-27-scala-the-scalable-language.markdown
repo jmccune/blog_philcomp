@@ -2,7 +2,7 @@
 layout: post
 title:  "Scala the scalable language"
 date:   2016-06-27 09:59:00 -0500
-categories: programming-language scala
+categories: cliffnotes programming-language scala
 ---
 
 ### Scala ###

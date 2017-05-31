@@ -2,7 +2,7 @@
 layout: post
 title:  "Principled Development"
 date:   2017-03-01 13:34:00 -0500
-categories: development best-practices architecture
+categories: best-practices development  architecture
 ---
 
 ### Architecture Principles ###
