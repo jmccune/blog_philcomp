@@ -2,7 +2,7 @@
 layout: post
 title:  "How to get some cache..."
 date:   2017-04-11 09:44:00 -0500
-categories: cliffsnotes redis memcache cache
+categories: cliffnotes redis memcache cache
 ---
 
 ### Caching ###

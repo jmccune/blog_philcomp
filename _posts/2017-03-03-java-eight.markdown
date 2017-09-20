@@ -2,7 +2,7 @@
 layout: post
 title:  "Java 8"
 date:   2017-03-03 13:34:00 -0500
-categories: cliffsnotes java
+categories: cliffnotes java 
 ---
 
 ### Java 8 ###
