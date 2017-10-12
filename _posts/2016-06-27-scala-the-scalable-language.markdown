@@ -16,7 +16,7 @@ Scala:
    - Can expand/extend the language defining operators.
    - Composition using traits (mixins)
    - Concise
-   	 + Type Ineference
+   	 + Type Inference
 
 
 Note: 
