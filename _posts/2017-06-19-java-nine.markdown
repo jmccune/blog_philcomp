@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Java 9"
+date:   2017-06-19 13:30:00 -0500
+categories: cliffnotes java 
+---
+
+### Java 9 ###
+
+Main differences of Java 8 from Java 7:
+
+ - Better use of Memory
+ - Better performance. (locking, secure apps, gfx)
+ - Better use of Hardware
+ - HTML 5 documentation
+ - Faster Compilation
+
+### Next ###
+
+
+
+
+
+
+
+### Sources ###
+  - [Real World Java 9]
+  
+[Real-World Java 9]: https://www.infoq.com/presentations/java9-flow-stream-api?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage

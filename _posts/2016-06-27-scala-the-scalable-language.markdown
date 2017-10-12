@@ -19,6 +19,9 @@ Scala:
    	 + Type Inference
 
 
+Note: 
+    - after having talked with a few users of Scala, it's apparently the right job for certain things, but not a replacement for java.
+    - (e.g. it has its own set of problems-- kotlin developers for instance didn't care for how long it took to compile)
 
 
 ### Sources ###
